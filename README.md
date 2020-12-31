@@ -1,2 +1,2 @@
 # HWID-Auth
-Simple Python HWID
+Simple Python HWID Auth
