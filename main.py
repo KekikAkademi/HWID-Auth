@@ -2,7 +2,7 @@
 
 import subprocess
 import time
-import request
+import requests
 import os
 
 hw = subprocess.check_output('wmic csproduct get uuid').decode().split('\n')[1].strip() # Grapping HWID
